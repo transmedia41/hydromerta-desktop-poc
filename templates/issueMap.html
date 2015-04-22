@@ -1,0 +1,39 @@
+<ion-view view-title="Issue Map">
+ <ion-nav-buttons side="primary">
+  
+    <button class="button button-clear" ng-controller="myAccountCtrl" ng-click="toggleLeft()"><i class="ion-navicon-round"></i></button>
+
+  </ion-nav-buttons>
+
+ 
+      <ion-side-menus>
+			  <!-- Center content -->
+			  <ion-side-menu-content>
+			   	<ion-content scroll="false">
+			   			<leaflet defaults="mapDefaults" center="mapCenter" markers="mapMarkers" data-tap-disabled="true" layers="layers"></leaflet>
+			    </ion-content>
+			  </ion-side-menu-content>
+
+  <!-- Left menu -->
+  <ion-side-menu side="left">
+ 	 <div class="leftMenu">
+ 	 	<div class="list">
+ 	 		<a class="item item-icon-left" ng-controller="myAccountCtrl" ng-click="goToMyAccountMap()">
+   				 <i class="icon ion-person-stalker"></i>
+   					 My account
+  			</a>
+  <a class="item item-icon-left" href="#" ng-controller="LogoutCtrl" ng-click="logOut()">
+    <i class="icon ion-ios-undo"></i>
+   Log out
+  </a>  
+
+</div>
+
+  	 </div>
+  </ion-side-menu>
+
+</ion-side-menus>
+   
+
+ 
+</ion-view>

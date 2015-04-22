@@ -1,0 +1,24 @@
+#map { height: 180px; }
+
+.leaflet-marker-icon{
+  -webkit-filter: drop-shadow(3px 3px  green)
+                  drop-shadow(-3px -3px 0 green);
+ }
+
+.redMarker{
+	 -webkit-filter: drop-shadow(3px 3px  red)
+                  drop-shadow(-3px -3px 0 red);
+  }
+
+}
+.greenMarker{
+	 -webkit-filter: drop-shadow(3px 3px  green)
+                  drop-shadow(-3px -3px 0 green);
+  }
+
+}
+.orangeMarker{
+	 -webkit-filter: drop-shadow(3px 3px  orange)
+                  drop-shadow(-3px -3px 0 orange);
+  }
+}
