@@ -1,0 +1,19 @@
+[{
+    "title": "Affiche publicitaire",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "image",
+    "templateHtml":"http://",		
+    "xp": "15"
+},
+{
+    "title": "Photo camion livraison",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "photo",
+    "templateHtml":"http://",		
+    "xp": "15"
+}
+]

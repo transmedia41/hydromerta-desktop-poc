@@ -1,0 +1,38 @@
+[{
+    "title": "Certificat adoption Alessandra",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "image",
+    "templateHtml":"http://",		
+    "xp": "15"
+},
+{
+    "title": "Certificat adoption Lucas",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "image",
+    "templateHtml":"http://",		
+    "xp": "15"
+},
+{
+    "title": "Photo Alessandra",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "photo",
+    "templateHtml":"http://",       
+    "xp": "15"
+}
+,
+{
+    "title": "Photo Lucas",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "photo",
+    "templateHtml":"http://",       
+    "xp": "15"
+}
+]

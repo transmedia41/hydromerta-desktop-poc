@@ -1,24 +1,52 @@
-#map { height: 180px; }
-
-.leaflet-marker-icon{
-  -webkit-filter: drop-shadow(3px 3px  green)
-                  drop-shadow(-3px -3px 0 green);
- }
-
-.redMarker{
-	 -webkit-filter: drop-shadow(3px 3px  red)
-                  drop-shadow(-3px -3px 0 red);
-  }
-
+.leaflet-control {
+    visibility: hidden;
 }
-.greenMarker{
-	 -webkit-filter: drop-shadow(3px 3px  green)
-                  drop-shadow(-3px -3px 0 green);
-  }
-
+@font-face {
+    font-family: 'fairview_regular';
+    src:url('../fonts/fairview_regular-webfont.eot');
+    src:url('../fonts/fairview_regular-webfont.eot') format('embedded-opentype'),
+        url('../fonts/fairview_regular-webfont.woff') format('woff'),
+        url('../fonts/fairview_regular-webfont.ttf') format('truetype'),
+        url('../fonts/fairview_regular-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
-.orangeMarker{
-	 -webkit-filter: drop-shadow(3px 3px  orange)
-                  drop-shadow(-3px -3px 0 orange);
-  }
+
+@font-face {
+    font-family: 'fairview_smallcaps';
+    src:url('../fonts/fairview_smallcaps-webfont.eot');
+    src:url('../fonts/fairview_smallcaps-webfont.eot') format('embedded-opentype'),
+        url('../fonts/fairview_smallcaps-webfont.woff') format('woff'),
+        url('../fonts/fairview_smallcaps-webfont.ttf') format('truetype'),
+        url('../fonts/fairview_smallcaps-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'hoverage';
+    src:url('../fonts/hoverage-webfont.eot');
+    src:url('../fonts/hoverage-webfont.eot') format('embedded-opentype'),
+        url('../fonts/hoverage-webfont.woff') format('woff'),
+        url('../fonts/hoverage-webfont.ttf') format('truetype'),
+        url('../fonts/hoverage-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'hoverage_vintage';
+    src:url('../fonts/hoverage_vintage-webfont.eot');
+    src:url('../fonts/hoverage_vintage-webfont.eot') format('embedded-opentype'),
+        url('../fonts/hoverage_vintage-webfont.woff') format('woff'),
+        url('../fonts/hoverage_vintage-webfont.ttf') format('truetype'),
+        url('../fonts/hoverage_vintage-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    background-color: white;
+}
+leaflet{
+    width: 100%;
 }

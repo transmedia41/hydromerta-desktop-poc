@@ -1,0 +1,19 @@
+[{
+    "title": "Extrait d'interview de Paolo",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "audio",
+    "templateHtml":"http://",		
+    "xp": "15"
+},
+{
+    "title": "Nouvelles affiches",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "image",
+    "templateHtml":"http://",		
+    "xp": "15"
+}
+]

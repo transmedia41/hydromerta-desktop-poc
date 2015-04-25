@@ -1,0 +1,19 @@
+[{
+    "title": "Photo d'un mafieux à l'oeuvre",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "photo",
+    "templateHtml":"http://",		
+    "xp": "15"
+},
+{
+    "title": "Note de la résistance",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "image",
+    "templateHtml":"http://",		
+    "xp": "15"
+}
+]

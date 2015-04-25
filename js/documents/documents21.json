@@ -1,0 +1,19 @@
+[{
+    "title": "Article de presse sur l'apparition de 'vandales'",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "image",
+    "templateHtml":"http://",		
+    "xp": "15"
+},
+{
+    "title": "Flyer résistance",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "image",
+    "templateHtml":"http://",		
+    "xp": "15"
+}
+]

@@ -1,0 +1,19 @@
+[{
+    "title": "Photo signature accord",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "photo",
+    "templateHtml":"http://",		
+    "xp": "15"
+},
+{
+    "title": "Article de journal",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "image",
+    "templateHtml":"http://",		
+    "xp": "15"
+}
+]

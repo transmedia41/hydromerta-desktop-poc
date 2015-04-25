@@ -1,0 +1,18 @@
+[{
+    "title": "Vidéo chef de la résistance",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "video",
+    "templateHtml":"http://",		
+    "xp": "15"
+},{
+    "title": "Transcription de la vidéo,
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "image",
+    "templateHtml":"http://",		
+    "xp": "15"
+}
+]

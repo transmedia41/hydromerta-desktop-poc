@@ -1,0 +1,19 @@
+[{
+    "title": "Transcription de la conversation",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "image",
+    "templateHtml":"http://",		
+    "xp": "15"
+},
+{
+    "title": "Conversation entre Don et Le Dé",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "audio",
+    "templateHtml":"http://",		
+    "xp": "15"
+}
+]

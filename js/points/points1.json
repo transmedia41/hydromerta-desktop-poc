@@ -1,0 +1,434 @@
+[
+{
+   
+    "type": "Feature",
+    "properties": {
+        "type": "grille",
+        "name": "Protéger une bouche d'égoût",
+        "description": "Vise à éviter la pollution des égoûts",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62466223816658,
+            46.7887316374555
+        ]
+    }
+},
+{
+    "id": "2",
+    "type": "Feature",
+    "properties": {
+        "type": "grille",
+        "name": "Protéger une bouche d'égoût",
+        "description": "Vise à éviter la pollution des égoûts",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62716488943498,
+            46.7878528439684
+        ]
+    }
+},
+{
+    "id": "3",
+    "type": "Feature",
+    "properties": {
+        "type": "grille",
+        "name": "Protéger une bouche d'égoût",
+        "description": "Vise à éviter la pollution des égoûts",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62756181259108,
+            46.7849910162683
+        ]
+    }
+},
+{
+    "id": 4,
+    "type": "Feature",
+    "properties": {
+        "type": "grille",
+        "name": "Protéger une bouche d'égoût",
+        "description": "Vise à éviter la pollution des égoûts",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.63406877431904,
+            46.7824166651184
+        ]
+    }
+},
+{
+    "id": "5",
+    "type": "Feature",
+    "properties": {
+        "type": "grille",
+        "name": "Protéger une bouche d'égoût",
+        "description": "Vise à éviter la pollution des égoûts",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.63277500086861,
+            46.7870396637835
+        ]
+    }
+},
+{
+    "id": "6",
+    "type": "Feature",
+    "properties": {
+        "type": "grille",
+        "name": "Protéger une bouche d'égoût",
+        "description": "Vise à éviter la pollution des égoûts",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62880513401515,
+            46.7911538031889
+        ]
+    }
+},
+{
+    "id": "7",
+    "type": "Feature",
+    "properties": {
+        "type": "grille",
+        "name": "Protéger une bouche d'égoût",
+        "description": "Vise à éviter la pollution des égoûts",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62880579834312,
+            46.7911603294832
+        ]
+    }
+},
+{
+    "id": "8",
+    "type": "Feature",
+    "properties": {
+        "type": "arrosage",
+        "name": "Régler le débit d'un arrosage communal",
+        "description": "Vise à limiter l'utilisation inutile de l'eau potable",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62921383328, 46.7833307628
+        ]
+    }
+},
+{
+    "id": "9",
+    "type": "Feature",
+    "properties": {
+        "type": "arrosage",
+        "name": "Régler le débit d'un arrosage communal",
+        "description": "Vise à limiter l'utilisation inutile de l'eau potable",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62790903547, 46.7850181191
+        ]
+    }
+},
+{
+    "id": "10",
+    "type": "Feature",
+    "properties": {
+        "type": "arrosage",
+        "name": "Régler le débit d'un arrosage communal",
+        "description": "Vise à limiter l'utilisation inutile de l'eau potable",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62486798456495,
+            46.7891048166476
+        ]
+    }
+},
+{
+    "id": "11",
+    "type": "Feature",
+    "properties": {
+        "type": "hydrant",
+        "name": "Protéger l'hydrant",
+        "description": "Vise à éviter le sabotage et le vol d'eau",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.63407250471329,
+            46.7842725449316
+        ]
+    }
+},
+{
+    "id": "12",
+    "type": "Feature",
+    "properties": {
+        "type": "hydrant",
+        "name": "Protéger l'hydrant",
+        "description": "Vise à éviter le sabotage et le vol d'eau",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62970756479098,
+            46.7874078817547
+        ]
+    }
+},
+{
+    "id": "12",
+    "type": "Feature",
+    "properties": {
+        "type": "hydrant",
+        "name": "Protéger l'hydrant",
+        "description": "Vise à éviter le sabotage et le vol d'eau",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62603534139692,
+            46.7893052023602
+        ]
+    }
+},
+{
+    "id": "13",
+    "type": "Feature",
+    "properties": {
+        "type": "hydrant",
+        "name": "Protéger l'hydrant",
+        "description": "Vise à éviter le sabotage et le vol d'eau",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62511893533227,
+            46.7871088526952
+        ]
+    }
+},
+{
+    "id": "14",
+    "type": "Feature",
+    "properties": {
+        "type": "hydrant",
+        "name": "Protéger l'hydrant",
+        "description": "Vise à éviter le sabotage et le vol d'eau",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.63187711818661,
+            46.7823953549712
+        ]
+    }
+},
+{
+    "id": "15",
+    "type": "Feature",
+    "properties": {
+        "type": "WC publics",
+        "name": "Remplacer les robinets des WC publics par des installations écologiques",
+        "description": "Vise à limiter l'utilisation inutile de l'eau potable",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.63289162591545,
+            46.7850739354067
+        ]
+    }
+},
+{
+   
+    "type": "Feature",
+    "properties": {
+        "type": "grille",
+        "name": "Protéger une bouche d'égoût",
+        "description": "Vise à éviter la pollution des égoûts",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62810031473, 46.7892604199
+        ]
+    }
+},
+{
+   
+    "type": "Feature",
+    "properties": {
+        "type": "grille",
+        "name": "Protéger une bouche d'égoût",
+        "description": "Vise à éviter la pollution des égoûts",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.62848287325, 46.7842051823
+        ]
+    }
+},
+{
+   
+    "type": "Feature",
+    "properties": {
+        "type": "grille",
+        "name": "Protéger une bouche d'égoût",
+        "description": "Vise à éviter la pollution des égoûts",
+        "smallIcon": "http://...",
+        "bigIcon": "http://...",
+        "accessLevel": "5",
+        "maxXp": "10",
+        "coolDown": "3600",
+        "lastPerformed": "",
+        "actionRadius": 50
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+           6.62822327997, 46.7873066389
+        ]
+    }
+},
+]

@@ -1,0 +1,19 @@
+[{
+    "title": "Témoignage anonyme",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "audio",
+    "templateHtml":"http://",		
+    "xp": "15"
+},
+{
+    "title": "Transcription du témoignage",
+    "thumbnail": "",
+    "versionUrl": "http://...",
+    "src": "http://...",
+    "type": "image",
+    "templateHtml":"http://",		
+    "xp": "15"
+}
+]

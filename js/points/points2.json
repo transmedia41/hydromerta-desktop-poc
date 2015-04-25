@@ -1,0 +1,347 @@
+[
+    {
+        "id": "16",
+        "type": "Feature",
+        "properties": {
+            "type": "hydrant",
+            "name": "Protéger l'hydrant",
+            "description": "Vise à éviter le sabotage et le vol d'eau",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.63395302900193,
+                46.7880944296658
+            ]
+        }
+    },
+    {
+        "id": "17",
+        "type": "Feature",
+        "properties": {
+            "type": "hydrant",
+            "name": "Protéger l'hydrant",
+            "description": "Vise à éviter le sabotage et le vol d'eau",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.64066263466032,
+                46.7884863721188
+            ]
+        }
+    },
+    {
+        "id": "18",
+        "type": "Feature",
+        "properties": {
+            "type": "hydrant",
+            "name": "Protéger l'hydrant",
+            "description": "Vise à éviter le sabotage et le vol d'eau",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.63770422004714,
+                46.7891211729052
+            ]
+        }
+    },
+    {
+        "id": "19",
+        "type": "Feature",
+        "properties": {
+            "type": "hydrant",
+            "name": "Protéger l'hydrant",
+            "description": "Vise à éviter le sabotage et le vol d'eau",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.63428092136416,
+                46.7912619549288
+            ]
+        }
+    },
+    {
+        "id": "20",
+        "type": "Feature",
+        "properties": {
+            "type": "hydrant",
+            "name": "Protéger l'hydrant",
+            "description": "Vise à éviter le sabotage et le vol d'eau",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.63207681539437,
+                46.7910253626638
+            ]
+        }
+    },
+    {
+        "id": "21",
+        "type": "Feature",
+        "properties": {
+            "type": "hydrant",
+            "name": "Protéger l'hydrant",
+            "description": "Vise à éviter le sabotage et le vol d'eau",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.63230651295601,
+                46.7935894725393
+            ]
+        }
+    },
+    {
+        "id": "22",
+        "type": "Feature",
+        "properties": {
+            "type": "hydrant",
+            "name": "Protéger l'hydrant",
+            "description": "Vise à éviter le sabotage et le vol d'eau",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.63959428451071,
+                46.7910717907849
+            ]
+        }
+    },
+    {
+        "id": "23",
+        "type": "Feature",
+        "properties": {
+            "type": "fontaine",
+            "name": "Libérer une fontaine détournée par la mafia",
+            "description": "Vise à éviter le sabotage et le vol d'eau",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.6366924763443,
+                46.7855289778844
+            ]
+        }
+    },
+    {
+        "id": "24",
+        "type": "Feature",
+        "properties": {
+            "type": "fontaine",
+            "name": "Libérer une fontaine détournée par la mafia",
+            "description": "Vise à éviter le sabotage et le vol d'eau",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.63597285055207,
+                46.7863789317934
+            ]
+        }
+    },
+    {
+        "id": "25",
+        "type": "Feature",
+        "properties": {
+            "type": "fontaine",
+            "name": "Libérer une fontaine détournée par la mafia",
+            "description": "Vise à éviter le sabotage et le vol d'eau",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.63735615800004,
+                46.7863082458248
+            ]
+        }
+    },
+    {
+        "id": "26",
+        "type": "Feature",
+        "properties": {
+            "type": "fontaine",
+            "name": "Libérer une fontaine détournée par la mafia",
+            "description": "Vise à éviter le sabotage et le vol d'eau",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.64011644403189,
+                46.7875833682877
+            ]
+        }
+    },
+    {
+        "id": "27",
+        "type": "Feature",
+        "properties": {
+            "type": "fontaine",
+            "name": "Libérer une fontaine détournée par la mafia",
+            "description": "Vise à éviter le sabotage et le vol d'eau",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.63493664780614,
+                46.787404764184
+            ]
+        }
+    },
+    {
+        "id": "28",
+        "type": "Feature",
+        "properties": {
+            "type": "WC publics",
+            "name": "Remplacer les robinets des WC publics par des installations écologiques",
+            "description": "Vise à limiter l'utilisation inutile de l'eau potable",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.6363870759151,
+                46.7849863665369
+            ]
+        }
+    },
+    {
+        "id": "29",
+        "type": "Feature",
+        "properties": {
+            "type": "WC publics",
+            "name": "Remplacer les robinets des WC publics par des installations écologiques",
+            "description": "Vise à limiter l'utilisation inutile de l'eau potable",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.64100961807948,
+                46.7882520099322
+            ]
+        }
+    },
+    {
+        "id": "30",
+        "type": "Feature",
+        "properties": {
+            "type": "WC publics",
+            "name": "Remplacer les robinets des WC publics par des installations écologiques",
+            "description": "Vise à limiter l'utilisation inutile de l'eau potable",
+            "smallIcon": "http://...",
+            "bigIcon": "http://...",
+            "accessLevel": "5",
+            "maxXp": "10",
+            "coolDown": "3600",
+            "lastPerformed": "",
+            "actionRadius": 50
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.64082194085386,
+                46.7917489153581
+            ]
+        }
+    }
+]
